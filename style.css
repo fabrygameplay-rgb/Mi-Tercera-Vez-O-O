@@ -32,6 +32,18 @@ body {
     align-items: center;
 }
 
+#calla_mrd {
+    display: none;
+    background-color: white;
+    width: 300px;
+    height: 222px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
 
 #Número-Del-Usuario {
     text-align: justify;
