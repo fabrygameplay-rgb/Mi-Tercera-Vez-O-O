@@ -11,7 +11,7 @@ Botón.addEventListener("click", () => {
         Sale.innerText = "❌, ¿UCV, no?";
     } else if (Intento === NúmeroDiscreto) {
         Sale.style.backgroundColor = "seagreen";
-        Sale.innerText = "🎉, Ding-Dong";
+        Sale.innerText = "🎉, Kcheras@";
     } else if (Intento < NúmeroDiscreto) {
         Sale.style.backgroundColor = "salmon";
         Sale.innerText = "⬆️, Tont@";
